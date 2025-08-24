@@ -12,8 +12,8 @@ const ibmPlexMono = IBM_Plex_Mono({
 })
 
 export const metadata: Metadata = {
-  title: "v0 App",
-  description: "Created with v0",
+  title: "New York Supreme Sportswear",
+  description: "Future of fashion",
   generator: "v0.app",
 }
 
